@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Vendor dotlottie-player chunks",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"scripts/vendor-dotlottie.mjs"
+			],
+			"isBackground": false
+		}
+	]
+}
