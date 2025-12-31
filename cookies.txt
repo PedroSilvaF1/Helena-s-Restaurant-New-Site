@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.www.restauranthelena.com	TRUE	/	FALSE	1999999999	_cfuvid	q0JvfGlZI31.lT3urV1juJKON1ElBJMwAM.bDNiJvL8-1766715072064-0.0.1.1-604800000
+www.restauranthelena.com	TRUE	/	FALSE	1999999999	SameSite	None
+

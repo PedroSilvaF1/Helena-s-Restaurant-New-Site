@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 Dec 2025 02:10:57 at https://www.restauranthelena.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.css +*.js +*.png +*.jpg +*.jpeg +*.webp +*.svg +*.woff +*.woff2
+(winhttrack -qwC2%Ps2u1%s%u%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt, en, *" https://www.restauranthelena.com/ -O1 "C:\Users\pedro\Desktop\helenasite" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.css +*.js +*.png +*.jpg +*.jpeg +*.webp +*.svg +*.woff +*.woff2 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:11:10	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.restauranthelena.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 59 links scanned, 56 files written (4035621 bytes overall) [3188431 bytes received at 167812 bytes/sec], 1261108 bytes transferred using HTTP compression in 27 files, ratio 29%, 3.4 requests per connection
+(1 errors, 0 warnings, 0 messages)
